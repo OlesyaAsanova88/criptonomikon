@@ -1,5 +1,10 @@
 # cryptonomicon
 
+<p>Vue.js, cryptocompare(API), tailwindcss</p>
+<p>Отражение курса криптовалют с графиком</p>
+
+<img src="https://image.shutterstock.com/image-vector/blue-violet-vector-background-bitcoin-260nw-1760988050.jpg" />
+
 ## Project setup
 ```
 npm install
